@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+}
+#topic{
+    font-size: 15px;
+    line-height: 30px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.top{
+    display: flex;
+    background-color: black;
+    color: aliceblue;
+    justify-content: space-evenly;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.cont{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: black;
+    color: aliceblue;
+}
+.inside{
+    display: flex;
+    background-color: black;
+    color: aliceblue;
+    font-size: 10px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+}
+.writing{
+    padding-left: 3px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
